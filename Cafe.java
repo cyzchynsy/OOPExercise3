@@ -14,7 +14,7 @@ public class Cafe {
             Order order;
             
             customer = new Customer();
-            customer.setName("Jon Java");
+            customer.setName("Juan Batumbakal");
             
             order = new Order();
             order.setOrder("Caramel Macchiato");
